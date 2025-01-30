@@ -1,5 +1,8 @@
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
+    static int N;
+    static int M;
+
+    public static void main(String[] arg) {
+
     }
 }
